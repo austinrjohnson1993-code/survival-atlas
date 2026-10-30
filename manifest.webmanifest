@@ -1,0 +1,17 @@
+{
+  "name": "Survival Atlas",
+  "short_name": "Atlas",
+  "description": "Offline survival atlas: maps, route planning, field guide, check-in net. Works with no signal.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#eef2ee",
+  "theme_color": "#0d5c40",
+  "lang": "en",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
